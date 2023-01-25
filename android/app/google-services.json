@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60657429493",
+    "project_id": "emailsign-75f98",
+    "storage_bucket": "emailsign-75f98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60657429493:android:e2b9468744c2e772270ebc",
+        "android_client_info": {
+          "package_name": "com.example.working"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60657429493-81reri0hvk4aqeuosre378ieqpgqeo19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrtRWD-Wr8aEGZExftZUGMddirrQRql08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60657429493-81reri0hvk4aqeuosre378ieqpgqeo19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
